@@ -2,7 +2,7 @@ package user
 
 import (
 	"context"
-	pb "github.com/garupanojisan/grpc-sample/protobuf"
+	pb "github.com/garupanojisan/grpc-sample/proto"
 )
 
 type Server struct {

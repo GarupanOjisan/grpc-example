@@ -6,7 +6,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "github.com/garupanojisan/grpc-sample/protobuf"
+	pb "github.com/garupanojisan/grpc-sample/proto"
 	"github.com/garupanojisan/grpc-sample/server/user"
 )
 
