@@ -1,0 +1,12 @@
+type: google.api.Service
+config_version: 3
+
+name: user.endpoints.hale-ivy-263911.cloud.goog
+
+apis:
+  - name: user.UserService
+
+usage:
+  rules:
+    - selector: user.UserService.Get
+      allow_unregistered_calls: true
